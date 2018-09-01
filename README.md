@@ -7,4 +7,7 @@
 5. Run the project.
 
 It can't always find the artist-id of the artist you're searching for (for ex. with Thursday).
-It's pretty damn slow. I threw this together so it's not organized or optimized or anything like that but it's a proof of concept.
+
+It's pretty damn slow (the Bieber one took like 5 minutes for ~500 songs). I threw this together so it's not organized or optimized or anything like that but it's a proof of concept.
+
+I have some examples of artists I ran through in here too.
